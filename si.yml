@@ -2,3 +2,6 @@
   Install: java
 
   Install: weblogic
+
+
+  Install: DB
