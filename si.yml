@@ -1,2 +1,4 @@
 - host: all
   Install: java
+
+  Install: weblogic
